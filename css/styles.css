@@ -152,6 +152,7 @@ img {
 }
 
 .navigation-link {
+    color: #212121;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -220,8 +221,8 @@ img {
 .phone-icon {
     margin-right: 10px;
     cursor: pointer;
-    width: 20px;
-    height: 20px;
+    width: 16px;
+    height: 16px;
 }
 
 .tel-link {
